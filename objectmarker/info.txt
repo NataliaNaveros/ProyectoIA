@@ -1,0 +1,6 @@
+rawdata/pos-01.bmp 1 80 19 146 366
+rawdata/pos-02.bmp 1 21 45 165 324
+rawdata/pos-03.bmp 1 49 40 202 301
+rawdata/pos-04.bmp 1 84 63 840 321
+rawdata/pos-05.bmp 1 95 28 220 368
+rawdata/pos-06.bmp 1 20 48 65 228

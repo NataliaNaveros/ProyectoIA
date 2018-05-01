@@ -1,0 +1,6 @@
+positivas/pos-01.jpg 1 80 19 146 366
+positivas/pos-02.jpg 1 21 45 165 324
+positivas/pos-03.jpg 1 49 40 202 301
+positivas/pos-04.jpg 1 84 63 840 321
+positivas/pos-05.jpg 1 95 28 220 368
+positivas/pos-06.jpg 1 20 48 65 228
